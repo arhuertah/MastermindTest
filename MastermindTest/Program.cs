@@ -22,7 +22,7 @@ namespace MastermindTest
             var answer = masterMindGame.GenerateAnswer();
 
             //For testing purposes
-            Console.WriteLine($"Correct Answer {answer}");
+            //Console.WriteLine($"Correct Answer {answer}");
 
             do
             {
